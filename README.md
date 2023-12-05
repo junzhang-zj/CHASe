@@ -1,8 +1,7 @@
-# CHASe: Client Heterogeneity-Aware Data Selection for Effective
-Federated Active Learning
+# CHASe
 
-Code for manuscripts ``CHASe: Client Heterogeneity-Aware Data Selection for Effective
-Federated Active Learning".
+CHASe: Client Heterogeneity-Aware Data Selection for Effective
+Federated Active Learning
 
 
 ## Requirements
