@@ -1,7 +1,7 @@
 # CHASe
 
 CHASe: Client Heterogeneity-Aware Data Selection for Effective Federated Active Learning
-
+![Overview](./assets/intro-new.pdf)
 
 ## Requirements
 - PyTorch
